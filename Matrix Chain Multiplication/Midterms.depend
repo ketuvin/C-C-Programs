@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513062051 source:c:\users\gt\documents\csc 124\midterms\main.c
+	<stdio.h>
+	<limits.h>
+
