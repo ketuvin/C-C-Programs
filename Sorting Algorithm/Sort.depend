@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1507610711 source:c:\users\scs-guest\desktop\is 101\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1508827981 source:c:\users\gt\documents\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1508827981 source:c:\users\gt\documents\csc 124\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
